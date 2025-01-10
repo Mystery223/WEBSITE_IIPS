@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEBSITE IIPS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo">
+                <a href="#"><img src="Img/logo.jpg" alt="Ismail Global School Logo"
+                        style="height: 50px; vertical-align: middle; border-radius: 25px;"> Indonesia Islamic Psychology Society</a>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#vision-mission">Visi & Misi</a></li>
+                    <li><a href="#program">Program</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="wrapper">
+        <section id="home">
+            <div class="container">
+                <img src="Img/logo.jpg" alt="Ismail Global School" class="home-image" />
+                <div class="kolom">
+                    <h1>Selamat Datang di</h1>
+                    <h2>Komunitas Indonesia Islamic Psychology Society</h2>
+                    <h3>Mengenal Diri, Berbakti Pada Negeri</h3>
+            </>
+        </section>
+
+        <section id="about">
+            <div class="kolom">
+                <h2>Latar Belakang</h2>
+                <p>Kesehatan mental menjadi isu penting di generasi muda saat ini yang terbukti lebih rentan mengalami gangguan mental seperti kecemasan, stres, dan depresi. Di Indonesia, 9,8% penduduk berusia di atas 15 tahun mengalami masalah mental emosional (Kemenkes RI, 2018).
+                <p>Indonesian Islamic Psychology Society (IIPS) hadir sebagai solusi aktual untuk menanggulangi isu kesehatan mental yang dialami pemuda saat ini lewat pendekatan ilmu psikologi dan sudut pandang islami supaya bisa menjalankan hidup dengan lebih baik dan produktif.</p>
+             </p>
+                <p>Mari Bergabung bersama Kami. Dimana belajar ilmu agama dengan berbagai metode yang menyenangkan, namun
+                    tetap mendahulukan adab serta memuliakan guru.</p>
+                <h3></h3>
+            </div>
+        </section>
+
+        <section id="vision-mission">
+            <div class="contain">
+                <h2>Visi Misi</h2>
+                <div class="card">
+                    <h2>
+                        <i class="fas fa-star"></i> Visi
+                    </h2>
+                    <p>“Menjadi sarana terdepan untuk mempelajari, memahami, dan aktualisasi diri melalui pendekatan psikologi bagi seluruh generasi muda yang ingin mengembangkan diri.”</p>
+                </div>
+                <div class="card">
+                    <h2>
+                        <i class="fas fa-rocket"></i> Misi
+                    </h2>
+                    <ol>
+                        <li>Memfasilitasi generasi muda dalam pengembangan diri.</li>
+                        <li>Memotivasi generasi muda untuk memahami diri sendiri.</li>
+                        <li>Menciptakan karya bagi kehidupan.</li>
+                    </ol>
+                </div>
+            </div>
+        </section>
+
+        <section id="program">
+            <div class="program-box">
+                <h2>Program Unggulan</h2>
+                <div class="program-container">
+                    <div class="program">
+                        <img src="Img/Pendidikan.png" />
+                        <div class="program-title">PENDIDIKAN</div>
+                        </a>
+                        <div class="program-description"></div>
+                    </div>
+                    <div class="program">
+                        <img src="Img/Sosial.jpeg" />
+                        <div class="program-title">BIDANG SOSIAL</div>
+                        </a>
+                        <div class="program-description"></div>
+                    </div>
+                    <div class="program">
+                        <img src="Img/PSDM.png" />
+                        <div class="program-title">BIDANG PSDM</div>
+                        </a>
+                        <div class="program-description"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer id="contact">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>IIPS.</h3>
+                    <p>Hadir sebagai solusi aktual untuk menanggulangi isu kesehatan mental yang dialami pemuda saat ini lewat pendekatan ilmu psikologi dan sudut pandang islami supaya bisa menjalankan hidup dengan lebih baik dan produktif.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Alamat</h3>
+                    <p>Jl. Venus Barat NO. 45, Manjahlega, Rancasari, Bandung.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                    <p>indonesianislamicpsychology.soc</p>
+                    <p>indonesianislamicpsychologysoc@gmail.com</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Social</h3>
+                    <p><b>Instagram: </b>islamicpsychology.id</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div id="copyright">
+        <div class="wrapper">
+            &copy; 2024. <b>Indonesia Islamic Psychology Society</b> All Rights Reserved.
+        </div>
+    </div>
+</body>
+</html>
